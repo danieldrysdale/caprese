@@ -36,6 +36,7 @@ BlockDomains(
 )
 
 LaunchApplications "Campfire", "Pivotal Tracker", "Ruby Docs (and others)", "TextMate"
+RelaunchApplications "Colloquy", "Mail", "TweetDeck"
 QuitApplications   "Google Calendar", "Remember the Milk", "Preview"
 QuitAndBlockApplications  "GMail", "Google Reader", "Google Voice", "Colloquy", "Mail", "TweetDeck"
 
